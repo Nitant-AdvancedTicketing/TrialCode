@@ -4,9 +4,15 @@ on:
   push:
     branches:
       - master
+  pull_request:
+    types: [closed]   # Trigger only when PRs are closed
+    branches:
+      - master        # Only for PRs targeting master
 
 jobs:
   release:
+    # Run only if PR was merged (not just closed)
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     permissions:
       contents: write   # to create releases/tags
