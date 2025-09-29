@@ -1,3 +1,10 @@
+# [2021.3.0](https://github.com/Nitant-AdvancedTicketing/TrialCode/compare/v2021.2.0...v2021.3.0) (2025-09-29)
+
+
+### Features
+
+* new feature ([7175e6d](https://github.com/Nitant-AdvancedTicketing/TrialCode/commit/7175e6d19b448d7dc333c50f9e94af53d9d37c2c))
+
 # [2021.2.0](https://github.com/Nitant-AdvancedTicketing/TrialCode/compare/v2021.1.0...v2021.2.0) (2025-09-29)
 
 
