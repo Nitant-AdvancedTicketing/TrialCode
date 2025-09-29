@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/Nitant-AdvancedTicketing/TrialCode/compare/v2.0.0...v2.0.1) (2025-09-29)
+
+
+### Bug Fixes
+
+* update1 ([#14](https://github.com/Nitant-AdvancedTicketing/TrialCode/issues/14)) ([aaa7257](https://github.com/Nitant-AdvancedTicketing/TrialCode/commit/aaa72578d3cacf9a40bbf1525aa99226a7feaa21))
+
 # [2.0.0](https://github.com/Nitant-AdvancedTicketing/TrialCode/compare/v1.2.0...v2.0.0) (2025-09-29)
 
 
