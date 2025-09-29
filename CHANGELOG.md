@@ -1,3 +1,17 @@
+# [1.1.0](https://github.com/Nitant-AdvancedTicketing/TrialCode/compare/v1.0.0...v1.1.0) (2025-09-29)
+
+
+### Bug Fixes
+
+* add line 11 ([b59d7e8](https://github.com/Nitant-AdvancedTicketing/TrialCode/commit/b59d7e88d69d574db1ff7269be6aeb656b219b94))
+* add line 12 ([#8](https://github.com/Nitant-AdvancedTicketing/TrialCode/issues/8)) ([d0f9d26](https://github.com/Nitant-AdvancedTicketing/TrialCode/commit/d0f9d266eb477620148f0cf937220225f23c5c68))
+* update pr yml ([#9](https://github.com/Nitant-AdvancedTicketing/TrialCode/issues/9)) ([ede1650](https://github.com/Nitant-AdvancedTicketing/TrialCode/commit/ede165010ff70cade358d411c475a5e7e3285e2b))
+
+
+### Features
+
+* updated relase yml ([46e1c54](https://github.com/Nitant-AdvancedTicketing/TrialCode/commit/46e1c54bfc0607579d70306d1f5dc2e2fec085d7))
+
 # 1.0.0 (2025-09-29)
 
 
