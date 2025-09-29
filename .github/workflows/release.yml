@@ -1,6 +1,9 @@
 name: Release
 
 on:
+  push:
+    branches: 
+      - master
   pull_request:
     types: [closed]   # Trigger only when PRs are closed
     branches:
