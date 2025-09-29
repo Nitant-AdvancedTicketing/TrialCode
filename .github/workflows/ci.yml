@@ -19,7 +19,7 @@ jobs:
       - name: Get repo version...
         id: version
         run: |
-          echo "REPO_TAG=$(git tag --list --sort=-version:refname "v*" --merged | head -n 1)" >> $GITHUB_OUTPUT
+          echo "REPO_TAG=$(git tag --list --sort=-version:refname "v*" --merged | head -n 1)"
       # - uses: actions/checkout@v4
       # - name: Run a simple command
       #   run: echo "Hello from GitHub Actions!"
